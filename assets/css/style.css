@@ -3,8 +3,40 @@ nav{
     height: 95px;
     background-color: rgb(255, 255, 255);
 }
+
 /* for dropdown menu  */
 .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0; /* remove the gap so it doesn't close */
+}
+
+/* for banner  */
+.my-banner{
+    background-image: url('../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: blue; */
+    height: 550px;
+    width: 100%;
+}
+
+/* for banner components  */
+.my-banner-component{
+    color: white;
+}
+.my-banner-component li{
+    list-style: none;
+}
+
+/* for institute greeting  */
+.my-institute-departments{
+    height: 300px;
+}
+
+.my-depts{
+    background-image: url('../images/dept-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 220px;
+    width: 270px;
 }
