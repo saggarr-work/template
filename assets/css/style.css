@@ -1,0 +1,10 @@
+/* for navbar */
+nav{
+    height: 95px;
+    background-color: rgb(255, 255, 255);
+}
+/* for dropdown menu  */
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
