@@ -1,14 +1,36 @@
 /* classes for big fonts  */
-.f-50{font-size: 50px;}
-.f-70{font-size: 70px;}
-.f-100{font-size: 100px;}
+
+.f-30 {
+    font-size: 30px;
+}
+
+.f-50 {
+    font-size: 50px;
+}
+
+.f-70 {
+    font-size: 70px;
+}
+
+.f-100 {
+    font-size: 100px;
+}
+
+/* .vr{
+    width: 2px;
+    border: 1px solid red;
+} */
+
+.my-news-card{
+    border: none;
+}
 
 
 
 
 
 /* for navbar */
-nav{
+nav {
     /* height: 95px; */
     background-color: rgb(255, 255, 255);
 }
@@ -16,11 +38,12 @@ nav{
 /* for dropdown menu  */
 .dropdown:hover .dropdown-menu {
     display: block;
-    margin-top: 0; /* remove the gap so it doesn't close */
+    margin-top: 0;
+    /* remove the gap so it doesn't close */
 }
 
 /* for banner  */
-.my-banner{
+.my-banner {
     background-image: url('../images/banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,10 +53,11 @@ nav{
 }
 
 /* for banner components  */
-.my-banner-component{
+.my-banner-component {
     color: white;
 }
-.my-banner-component li{
+
+.my-banner-component li {
     list-style: none;
 }
 
@@ -43,7 +67,7 @@ nav{
 } */
 
 /* for departments  */
-.my-depts{
+.my-depts {
     background-image: url('../images/dept-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,12 +75,13 @@ nav{
     width: 270px;
 }
 
-.dropdown-menu{
+.dropdown-menu {
     min-width: 300px;
     background-color: rgb(240, 240, 240);
     /* border: 2px solid red; */
 }
-.dropdown-item{
+
+.dropdown-item {
     height: 50px;
-    
+
 }
