@@ -7,6 +7,9 @@
 .f-50 {
     font-size: 50px;
 }
+.f-60 {
+    font-size: 60px;
+}
 
 .f-70 {
     font-size: 70px;
@@ -29,12 +32,6 @@
     margin-bottom: -1rem;
 }
 
-.my-carousel-prev{
-
-}
-.my-carousel-next{
-
-}
 
 .my-footer-ul{
     list-style: none;
@@ -42,6 +39,12 @@
 .my-footer-li{
     list-style: none;
     display: inline;
+}
+
+/* table th height  */
+.my-tr-h{
+    height: 70px;
+    width: 100%;
 }
 
 
