@@ -25,6 +25,25 @@
     border: none;
 }
 
+.my-carousel-indicators{
+    margin-bottom: -1rem;
+}
+
+.my-carousel-prev{
+
+}
+.my-carousel-next{
+
+}
+
+.my-footer-ul{
+    list-style: none;
+}
+.my-footer-li{
+    list-style: none;
+    display: inline;
+}
+
 
 
 
