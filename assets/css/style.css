@@ -48,7 +48,14 @@
 }
 
 
+.my-page-name-bg{
+    background-color: #F2FDFE;
+}
 
+.my-history-img{
+    height: 300px;
+    width: 250px;
+}
 
 
 /* for navbar */
